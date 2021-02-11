@@ -21,4 +21,6 @@
 - Видео лучше смотреть на скорости 1.25 или 1.5.
 
 ## Материалы
+- [Профориентация 2020-Q3](https://youtu.be/pQ0hr5U8RL0)
 - [Как учиться в rs app](https://youtu.be/v_69DaeZ7dM)
+- [RSSchool для гуманитария](https://youtu.be/mCnOni_mqdk)
