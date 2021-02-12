@@ -8,7 +8,7 @@
 - [online-zoo](tasks/online-zoo.md)
 
 ## Материалы
-
+### Основные материалы
 - [Browsers. IDEs. Web Technologies](https://youtu.be/nd2VYxOsOwY)
 - [HTML5 and CSS3 Tips](https://youtu.be/2iCgf03rx1I)
 - [HTML & CSS - Building first simple app](https://youtu.be/B0RuI1L5r9Q)

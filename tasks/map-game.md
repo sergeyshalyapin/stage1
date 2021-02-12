@@ -2,11 +2,11 @@
 
 | Дата выдачи | Deadline         | Folder name   | Branch name   |
 | ------------| ---------------- | ------------- | ------------- |
-| 30.03.2021  | 05.04.2021 23:59 | map-game      | map-game      |
+| 06.04.2021  | 12.04.2021 23:59 | map-game      | map-game      |
 
 В первую очередь ознакомьтесь с [инструкцией к заданию](js-projects.md) 
 
-## Task 5. map-game
+## Task 4. map-game
 
 ![screenshot](images/map-game.png)
 
@@ -92,4 +92,4 @@ getFlickrImage = async () => {
 
 ## Cross-check
 - инструкция по проведению cross-check: https://docs.rs.school/#/cross-check-flow
-- ссылки на лучшие работы, добавьте, пожалуйста, в эту форму [https://forms.gle/BFGAF88zZADwRkKV7](https://docs.google.com/forms/d/e/1FAIpQLSdg6dC0I2DS7R9qKIEHSoCBUBmj0HwTDLvXxOsv5_PMsB0oBQ/viewform?usp=sf_link)
+- ссылки на лучшие работы, добавьте, пожалуйста, в эту форму [https://forms.gle/T1VvyfMVNrFnFcR37](https://docs.google.com/forms/d/e/1FAIpQLSdVt05mFxh7oL6gEyl4-NQ19pN8tGU4QNqp71w3vo5Uxs89mg/viewform?usp=sf_link)

@@ -2,11 +2,11 @@
 
 | Дата выдачи | Deadline         | Folder name   | Branch name   |
 | ------------| ---------------- | ------------- | ------------- |
-| 02.03.2021  | 08.03.2021 23:59 | virtual-piano | virtual-piano |
+| 16.03.2021  | 22.03.2021 23:59 | virtual-piano | virtual-piano |
 
 В первую очередь ознакомьтесь с [инструкцией к заданию](js-projects.md) 
 
-## Task 1. Виртуально пианино
+## Task 1. virtual-piano
 
 ![screenshot](images/virtual-piano.png)
 

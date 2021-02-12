@@ -1,16 +1,16 @@
-# virtual-piano
+# relax-app
 
-| Deadline         | Folder name   | Branch name   |
-| ---------------- | ------------- | ------------- |
-| 08.03.2021 23:59 | virtual-piano | virtual-piano |
+| Дата выдачи | Deadline         | Folder name   | Branch name   |
+| ------------| ---------------- | ------------- | ------------- |
+| 30.03.2021  | 05.04.2021 23:59 | relax-app     | relax-app     |
 
-В первую очередь ознакомьтесь с [инструкцией к заданию](introduction.md) 
+В первую очередь ознакомьтесь с [инструкцией к заданию](js-projects.md) 
 
-## Task 1. Виртуально пианино
+## Task 3. relax-app
 
-![screenshot](images/virtual-piano.png)
+![screenshot](images/relax-app.png)
 
-[Демо](https://irinainina-virtual-piano.netlify.app/)
+[Демо](https://7oom.ru/penie-ptic.html)
 
 В ходе выполнения задания вам необходимо создать приложение - виртуальное пианино. 
 
@@ -60,11 +60,13 @@
 - [JS30. JavaScript Drum Kit](https://youtu.be/VuN8qwZoego)
 
 ### Демо для вдохновения
-- [Демо 1](https://jliza.ru/assets/piano2/)
-- [Демо 2](https://www.onlinepianist.com/virtual-piano)
+  - http://ecosounds.net/
+  - http://7oom.ru/penie-ptic.html
+  - http://www.allolo.ru/?id=32
+  - http://ornitoterapiya.ru/solo/solovey.html
 
-[Документ для вопросов](https://docs.google.com/spreadsheets/d/1dMDLBC4-1XPaVMehZB6DqetToXZhq4x0PiZtj-jvLRc/edit#gid=1972614983)
+[Документ для вопросов](https://docs.google.com/spreadsheets/d/1dMDLBC4-1XPaVMehZB6DqetToXZhq4x0PiZtj-jvLRc/edit#gid=610380603)
 
 ## Cross-check
 - инструкция по проведению cross-check: https://docs.rs.school/#/cross-check-flow
-- ссылки на лучшие работы, добавьте, пожалуйста, в эту форму [https://forms.gle/BFGAF88zZADwRkKV7](https://docs.google.com/forms/d/e/1FAIpQLSdg6dC0I2DS7R9qKIEHSoCBUBmj0HwTDLvXxOsv5_PMsB0oBQ/viewform?usp=sf_link)
+- ссылки на лучшие работы, добавьте, пожалуйста, в эту форму [https://forms.gle/qzqvrDmWbhLerYzb7](https://docs.google.com/forms/d/e/1FAIpQLSdqWPAPY5lFefhHOzoC0ms2xXPOYr2qGMvAiN87pEmCkj55hw/viewform?usp=sf_link)
