@@ -9,7 +9,5 @@
   - [js-projects](tasks/js-projects.md)
     - [virtual-piano](tasks/virtual-piano.md)
     - [photo-filter](tasks/photo-filter.md)
-    - [video-slider](tasks/video-slider.md)
     - [relax-app](tasks/relax-app.md)
     - [map-game](tasks/map-game.md)
-    - [magic-site](tasks/magic-site.md)
