@@ -4,7 +4,7 @@
 | ------------| ---------------- | ------------- | ------------- |
 | 16.03.2021  | 22.03.2021 23:59 | virtual-piano | virtual-piano |
 
-В первую очередь ознакомьтесь с [инструкцией к заданию](js-projects.md) 
+В первую очередь ознакомьтесь с [инструкцией к заданию](tasks/js-projects.md) 
 
 ## Task 1. virtual-piano
 
@@ -14,7 +14,7 @@
 
 [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/virtual-piano/virtual-piano)
 
-[Советы по написанию кода](https://github.com/rolling-scopes-school/stage1-tasks/wiki/virtual-piano)
+[Советы по написанию кода](tasks/virtual-piano-hints.md)
 
 В ходе выполнения задания вам необходимо создать приложение - виртуальное пианино. 
 
