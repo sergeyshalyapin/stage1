@@ -10,7 +10,11 @@
 
 ![screenshot](images/virtual-piano.png)
 
-[Демо](https://irinainina-virtual-piano.netlify.app/)
+[Демо](https://rolling-scopes-school.github.io/stage1-tasks/virtual-piano/)
+
+[Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/virtual-piano/virtual-piano)
+
+[Советы по написанию кода](https://github.com/rolling-scopes-school/stage1-tasks/wiki/virtual-piano)
 
 В ходе выполнения задания вам необходимо создать приложение - виртуальное пианино. 
 
