@@ -57,6 +57,7 @@
 - [шаблонные строки](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/template_strings);
 - [стили и классы](https://learn.javascript.ru/styles-and-classes)
 - [Fullscreen API](https://developer.mozilla.org/ru/docs/DOM/Using_fullscreen_mode)
+- [Using the Fullscreen API. Tutorial](https://www.digitalocean.com/community/tutorials/js-fullscreen-api)
 
 ### Видео
 - [JS30. JavaScript Drum Kit](https://youtu.be/VuN8qwZoego)
