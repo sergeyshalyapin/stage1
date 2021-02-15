@@ -87,10 +87,10 @@ button.addEventListener('click', playAudio)
 ### Рефакторинг функции playAudio
 Создавать отдельный плеер для каждой клавиши пианино означает дублировать код, то есть делать то, чего программисты стараются избежать. Плеер можно создать средствами js, а в функцию `playAudio` передать параметр `src` 
 ```js
+const audio = new Audio();
 const button = document.querySelector('button');
 
 function playAudio(src) {
-  const audio = new Audio();
   audio.src = src;
   audio.currentTime = 0;
   audio.play();

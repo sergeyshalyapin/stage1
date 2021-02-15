@@ -58,11 +58,6 @@
 - [Использование переменных в CSS](https://developer.mozilla.org/ru/docs/Web/CSS/Using_CSS_custom_properties)
 - [Изучите CSS-переменные за 5 минут](https://medium.com/devschacht/изучите-css-переменные-за-5-минут-3a5dc6193857)
 
-
-- https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/filter
-- https://codepen.io/lqez/pen/vYNpVbW
-- https://orangeable.com/css/filters
-
 ### Видео
 - [JS30. CSS Variables](https://youtu.be/AHLNzv13c2I)
 
