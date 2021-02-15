@@ -48,9 +48,9 @@
 ## Материалы:
 
 ### Теория
-- [<input>](https://developer.mozilla.org/ru/docs/Web/HTML/Element/Input)
+- [input](https://developer.mozilla.org/ru/docs/Web/HTML/Element/Input)
 - [input type="range"](https://developer.mozilla.org/ru/docs/Web/HTML/Element/Input/range)
-- [<output>: Элемент вывода](https://developer.mozilla.org/ru/docs/Web/HTML/Element/output)
+- [output](https://developer.mozilla.org/ru/docs/Web/HTML/Element/output)
 - [События: change, input](https://learn.javascript.ru/events-change-input)
 - [Element.matches()](https://developer.mozilla.org/ru/docs/Web/API/Element/matches)
 - [CSS Filters](https://css-tricks.com/almanac/properties/f/filter/)
