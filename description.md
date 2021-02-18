@@ -24,3 +24,4 @@
 - [Профориентация 2020-Q3](https://youtu.be/pQ0hr5U8RL0)
 - [Как учиться в rs app](https://youtu.be/v_69DaeZ7dM)
 - [RSSchool для гуманитария](https://youtu.be/mCnOni_mqdk)
+- [2020q3 Feedback о школе](https://docs.google.com/spreadsheets/d/1IACz3tcZTx71Qh9z6ZXu8VimgISJvrO-bJUBLpQ-bVM/edit#gid=0)
