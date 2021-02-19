@@ -9,7 +9,7 @@
 | 3 |Test: Git Basic                        |Git       | Auto-Test    | 100 х 0.1 = 10  | 30.03.21  |05.04.21|
 | 4 |[codewars#1](tasks/codewars.md)        |JavaScript| Auto-Test    | 65 х 0.2 = 13   | 02.03.21  |29.03.21|
 | 5 |[virtual-piano](tasks/virtual-piano.md)|JavaScript| Cross-Check  | 40 х 1 = 40     | 16.03.21  |22.03.21|
-| 6 |[photo-filter](tasks/photo-filter.md)  |JavaScript| Cross-Check  | 50 х 1 = 40     | 23.03.21  |29.03.21|
+| 6 |[photo-filter](tasks/photo-filter.md)  |JavaScript| Cross-Check  | 60 х 1 = 40     | 23.03.21  |29.03.21|
 | 8 |[relax-app](tasks/relax-app.md)        |JavaScript| Cross-Check  | 40 х 1 = 40     | 30.03.21  |05.04.21|
 | 9 |[map-game](tasks/map-game.md)          |JavaScript| Cross-Check  | 40 х 1 = 40     | 06.04.21  |12.04.21|
 |   |                                       |          | **Всего**    | **403 балла**   |           |        |
