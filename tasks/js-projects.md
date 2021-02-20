@@ -3,7 +3,7 @@
 В stage1 вам предлагается выполнить несколько js-проектов, каждый из которых представляет собой небольшое одностраничное приложение:
 1. [virtual-piano](tasks/virtual-piano.md) 
 2. [photo-filter](tasks/photo-filter.md)
-4. [relax-app](tasks/relax-app.md)
+4. [sounds-app](tasks/sounds-app.md)
 5. [map-game](tasks/map-game.md)
 
 Для того, чтобы помочь вам выполнить задание, в его описании кроме перечня требований и критериев оценки также могут присутствовать:

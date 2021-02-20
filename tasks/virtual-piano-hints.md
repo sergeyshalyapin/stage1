@@ -85,7 +85,7 @@ button.addEventListener('click', playAudio)
 - `audio.currentTime = 0;` запускает проигрывание с начала трека
 
 ### Рефакторинг функции playAudio
-Мы можем не создавать отдельный плеер для каждой клавиши пианино и даже вообще не добавлять элемент `audio` в html. Плеер можно создать средствами js, а в функцию `playAudio` передать параметр `src` 
+Мы можем не добавлять элемент `audio` в html. Плеер можно создать средствами js
 ```js
 const audio = new Audio();
 const button = document.querySelector('button');
