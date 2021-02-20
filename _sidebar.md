@@ -9,5 +9,5 @@
   - [js-projects](tasks/js-projects.md)
     - [virtual-piano](tasks/virtual-piano.md)
     - [photo-filter](tasks/photo-filter.md)
-    - [relax-app](tasks/relax-app.md)
+    - [sounds-app](tasks/sounds-app.md)
     - [map-game](tasks/map-game.md)
