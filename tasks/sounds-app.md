@@ -14,11 +14,11 @@
 
 [Инструкция к stage1 js-projects](tasks/js-projects.md)
 
-В ходе выполнения задания вам необходимо создать музыкальное приложение, в котором есть несколько звуковых тем. Каждая тема включает в себя аудиоплееры с звуками природы и музыкой, небольшой видеофрагмент. Также в приложении есть виджет с прогнозом погоды. 
+В ходе выполнения задания вам необходимо создать музыкальное приложение, в котором есть несколько звуковых тем. Каждая тема содержит зацикленное видео, а также несколько аудиоплееров с звуками природы и музыкой. Также в приложении есть виджет с прогнозом погоды. 
 
 ## Структура и работа приложения
 - в приложении есть несколько звуковых тем. Минимальное количество тем - шесть. Каждая тема содержит зацикленное видео, а также несколько аудио плееров (минимум два для каждой темы) с соответствующими этому месту звуками природы и музыкой
-- темы можно перелистывать кликами по стрелкам. При этом видео пролистывается как слайдер с эффектом сдвига слайда, в аудиоплеерах которые размещаются в боковой панели, меняется содержимое 
+- темы можно перелистывать кликами по стрелкам. При этом видео пролистывается как слайдер с эффектом сдвига слайда, в аудиоплеерах, которые размещаются в боковой панели, меняются названия аудиотреков и ссылки на аудио 
 -  в боковой панели есть виджет погоды, отображающий погоду для указанного пользователем населённого пункта
 
 ## Критерии оценки
@@ -43,29 +43,29 @@
 - сохранение данных в local storage
 
 ## Материалы:
-### HTML5-видео
+#### HTML5-видео
 - [video](https://developer.mozilla.org/ru/docs/Web/HTML/Element/video)
 - [HTML5-видео](https://html5book.ru/html5-video/)
-### Slider
+#### Slider
 - [Делаем слайдер на чистом JavaScript с нуля](https://youtu.be/K3E1OfQuJ0Q) - [код и демо](https://github.com/Eremeow138/wayup-slider-js)
 - [Infinite pure Javascript slider](https://medium.com/@claudiaconceic/infinite-plain-javascript-slider-click-and-touch-events-540c8bd174f2) - [код и демо](https://codepen.io/cconceicao/pen/PBQawy)
 - [Swiper & Slider Examples (carousel live coding)](https://youtu.be/rkz6LURkbBw) - [код](https://www.dropbox.com/s/0g5c0qz69keig6s/carusel-swiper.zip?dl=0)
-### HTML5-audio
+#### HTML5-audio
 - [HTML5-аудио](https://html5book.ru/html5-audio/)
 - [Как создать плеер для сайта на HTML5 и JavaScript](https://skillbox.ru/media/code/kak_sozdat_pleer_dlya_sayta/)
 - [Create custom audio player using HTML5 and JavaScript](http://talkerscode.com/webtricks/create-custom-audio-player-using-html5-and-javascript.php)
-### LocalStorage
+#### LocalStorage
 - [Window.localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
 - [LocalStorage на пальцах](https://tproger.ru/articles/localstorage/)
-### Асинхронность, async/await
+#### Асинхронность, async/await
 - [Поймут даже дети: простое объяснение async/await и промисов в JavaScript](https://habr.com/ru/post/474726/)
 - [JavaScript. Как работает Async, Await](https://youtu.be/SHiUyM_fFME)
 - [Вебинар: Асинхронность в JavaScript](https://youtu.be/Ih6Q7ka2eSQ)
-### Видеофрагменты
+#### Видео
 - [Pixabay](https://pixabay.com/videos/search/nature/)
-### API погоды
+#### API погоды
 - https://openweathermap.org/
-### Демо для вдохновения
+#### Демо для вдохновения
 - http://ecosounds.net/
 - http://7oom.ru/penie-ptic.html
 - http://www.allolo.ru/?id=12
