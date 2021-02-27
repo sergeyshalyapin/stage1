@@ -5,6 +5,15 @@
   - [JavaScript](materials/js.md)
 - [Задания](tasks/index.md)
   - [online-zoo](tasks/online-zoo.md)
+    - [variant #1](tasks/online-zoo/variant-1.md)
+    - variant #2
+    - variant #3
+    - variant #4
+    - variant #5
+    - variant #6
+    - variant #7
+    - variant #8
+    - variant #9
   - [codewars](tasks/codewars.md)
   - [js-projects](tasks/js-projects.md)
     - [virtual-piano](tasks/virtual-piano.md)
